@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hello.core.singleton.SingletonTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-06-25T10:50:21.817Z" hostname="gim-yejun-ui-MacBookAir.local" time="0.021">
+  <properties/>
+  <testcase name="싱글톤 패턴을 적용한 객체 사용" classname="hello.core.singleton.SingletonTest" time="0.021"/>
+  <system-out><![CDATA[singletonService1 = hello.core.singleton.SingletonService@81d9a72
+singletonService2 = hello.core.singleton.SingletonService@81d9a72
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

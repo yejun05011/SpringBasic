@@ -1,0 +1,2 @@
+BsingletonService1 = hello.core.singleton.SingletonService@81d9a72
+BsingletonService2 = hello.core.singleton.SingletonService@81d9a72
